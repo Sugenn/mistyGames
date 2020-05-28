@@ -1,0 +1,5 @@
+c:\users\rofls_000\documents\visual studio 2015\Projects\MistGames\DataLayer\bin\Debug\DataLayer.dll
+c:\users\rofls_000\documents\visual studio 2015\Projects\MistGames\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\rofls_000\documents\visual studio 2015\Projects\MistGames\DataLayer\obj\Debug\DataLayer.dll
+c:\users\rofls_000\documents\visual studio 2015\Projects\MistGames\DataLayer\obj\Debug\DataLayer.pdb
+c:\users\rofls_000\documents\visual studio 2015\Projects\MistGames\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache

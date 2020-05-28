@@ -1,0 +1,32 @@
+﻿    <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="MistGames.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Misty Games (͡° ͜ʖ ͡°)</title>
+    <link href="style/Main.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">    
+    <div id ="MainData">
+        <div id ="Header"<>This is the header</div>
+        <div id ="Menu"<>
+            <asp:Panel ID="pnMenuBoys" runat="server">
+                <a href="Home.aspx">Home</a> | <a href="Friends.aspx">Friends</a>  | <a href="Games.aspx">Games</a> 
+
+            </asp:Panel>
+
+        </div>
+        <div id ="Content"<>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <div id ="Footer"<>Ding can eat a sack of baby dicks...2k15</div>
+    </div>
+    </form>
+</body>
+</html>

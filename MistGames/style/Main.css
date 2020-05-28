@@ -1,0 +1,47 @@
+﻿body 
+{
+    font-family: 'Comic Sans MS', 'Times New Roman', Wingdings;
+    font-size: 12pt;
+    background-color: palevioletred;
+}
+
+#MainData
+{
+    position:relative;
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+}
+
+#Header
+{
+    width: 100%;
+    height: 100px;
+    background-color: darkviolet;
+}
+
+#Menu
+{
+    width: 100%;
+    height: 20px;
+    background-color: white;
+    text-align: center;
+
+}
+
+#Content
+{
+    width: 100%;
+    background-color: darkkhaki;
+    float: left;
+    margin-left: 40px;
+}
+
+#Footer
+{
+    clear: both;
+    width: 100%;
+    height: 20px;
+    background-color: darkslateblue;
+    text-align: center;     
+}
